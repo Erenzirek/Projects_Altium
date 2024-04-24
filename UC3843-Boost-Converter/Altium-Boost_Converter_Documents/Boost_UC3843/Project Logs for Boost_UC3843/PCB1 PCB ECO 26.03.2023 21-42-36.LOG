@@ -1,0 +1,104 @@
+Added Component: Designator=C1(1000uF_50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(1000uF_50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(1000uF_50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(1206_Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(470uF_50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(1uF_50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(1206_Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(1206_Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(1206_Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(1206_Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(1206_Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(1N5822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(7447070)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(IRFZ44N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(10K_POT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R2512)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(R2512)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(1206_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(1206_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(1206_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(1206_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(1206_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(1206_Res)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-N
+Added Pin To Net: NetName=GND Pin=C2-N
+Added Pin To Net: NetName=GND Pin=C3-N
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R1-1
+Added Pin To Net: NetName=NetC7_1 Pin=R1-2
+Added Pin To Net: NetName=NetC7_1 Pin=R5-2
+Added Pin To Net: NetName=NetC7_1 Pin=R10-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R10-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=R9-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R11-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R8-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R11-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOUT Pin=C1-P
+Added Pin To Net: NetName=VOUT Pin=C2-P
+Added Pin To Net: NetName=VOUT Pin=C3-P
+Added Pin To Net: NetName=VOUT Pin=C4-2
+Added Pin To Net: NetName=VOUT Pin=D1-1
+Added Pin To Net: NetName=VOUT Pin=R1-3
+Added Pin To Net: NetName=VOUT Pin=R2-2
+Added Pin To Net: NetName=VOUT Pin=R3-2
+Added Net: Name=VOUT
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

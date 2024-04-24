@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C4 Old Footprint=1206_Cap New Footprint=C1206_2uF
+Change Component Comment : Designator=D1 Old Comment=1N5822 New Comment=15SQ045
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=1uF
+Added Component: Designator=C12(C1206_2uF)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VOUT Pin=C12-2
+Added Member To Class: ClassName=Sheet1 Member=Component C11 1nF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 100nF
+Added Room: Name=Sheet1

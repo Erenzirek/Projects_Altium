@@ -1,0 +1,11 @@
+Added Component: Designator=U?(UC3843)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC7_2 Pin=U?-1
+Added Pin To Net: NetName=NetC7_1 Pin=U?-2
+Added Pin To Net: NetName=NetC10_2 Pin=U?-3
+Added Pin To Net: NetName=NetC11_2 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=NetR4_1 Pin=U?-6
+Added Pin To Net: NetName=NetC8_2 Pin=U?-7
+Added Pin To Net: NetName=NetR8_1 Pin=U?-8
+Added Member To Class: ClassName=Sheet1 Member=Component U? UC3843
